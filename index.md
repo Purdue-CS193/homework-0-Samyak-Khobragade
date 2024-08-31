@@ -1,3 +1,25 @@
+### Samyak's First CS 193 Homework
+- Terminal commands are interesting to use
+- Arman's a fun teacher
+- I adore the _subtle_ incorporation of memes/funny questions into the slides
+- Classes are **very** interactive
+- I like the amount of software we get to tinker with such as IntelliJ, GitHub etc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
